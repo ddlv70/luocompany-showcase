@@ -39,11 +39,13 @@ The site combines intuitive navigation with a flexible content structure and sup
 
 ---
 
-## Website Structure (Preview)
+## Website Structure & Architecture
 
-![Website Structure](docs/structure-diagram.png)
+For the full architecture diagram and page/API structure, please refer to  
+**[docs/STRUCTURE.md](docs/STRUCTURE.md)** — includes a complete Mermaid diagram and system breakdown.
 
-> Replace this image with your sitemap or navigation flow if needed.
+
+
 
 ---
 
