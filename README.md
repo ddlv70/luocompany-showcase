@@ -1,34 +1,36 @@
 # LUOCompany Website — Showcase
 
-> This repository presents a **showcase of the LUOCompany website project**,  
+> This repository presents a **showcase of the LUOCompany website**,  
 > an independently designed and developed platform for marine equipment presentation and client communication.  
-> The full project (including backend code and database) is kept private for security and business reasons.
+> The full project (including backend code and database) is kept **private** for security and business reasons.
 
 ---
 
 ## Overview
 
-**LUOCompany** is a professional **marine equipment website** developed to display company products,  
+**LUOCompany** is a professional **marine equipment website** developed to display company products,
 technical specifications, and certifications to global clients.  
-The website combines an intuitive navigation design with a flexible CMS structure,  
-supporting both Chinese and English content for international users.
+The site combines intuitive navigation with a flexible content structure and supports both **English** and **Chinese**.
+
+> For the full architecture and page/API layout, see **[docs/STRUCTURE.md](docs/STRUCTURE.md)** (Mermaid diagram included).
 
 ---
 
 ## Key Features
 
-- **Bilingual content structure** (English & Chinese)
+- **Bilingual content structure** (English & Chinese)  
 - **Category-based product pages** with hierarchical navigation  
-- **Dynamic content management** powered by PHP + MySQL  
-- **Quotation and contact system** for client inquiries  
+- **Dynamic content management** (PHP + MySQL backend in private repo)  
+- **Quotation & contact system** for client inquiries  
 - **Responsive layout** for desktop, tablet, and mobile  
 - **Integrated email form** for client communication
 
 ---
 
 ## Technology Stack
+
 | Layer | Technology |
-|--------|-------------|
+|------|------------|
 | Frontend | HTML5 / CSS3 / JavaScript / Bootstrap |
 | Backend | PHP (custom MVC framework) |
 | Database | MySQL |
@@ -37,51 +39,50 @@ supporting both Chinese and English content for international users.
 
 ---
 
-## Website Structure
+## Website Structure (Preview)
 
 ![Website Structure](docs/structure-diagram.png)
 
-> *Please replace this image with your site structure diagram (e.g., sitemap or navigation flow).*
+> Replace this image with your sitemap or navigation flow if needed.
 
 ---
 
 ## Screenshots
 
 | Home Page | Product Page |
-|------------|--------------|
+|-----------|--------------|
 | ![Homepage Screenshot](docs/homepage-screenshot.png) | ![Product Page](docs/product-page.png) |
 
-> Screenshots are provided for demonstration purposes only.  
+> Screenshots are for demonstration only.  
 > Sensitive business data and client information have been removed.
 
 ---
 
 ## Project Highlights
 
-- Independently designed and implemented entire website architecture  
-- Deployed live for marine equipment presentation and client communication  
-- Supported multi-language, multi-category content  
-- Integrated quotation inquiry module for direct business use  
+- Independently designed and implemented overall website architecture  
+- Deployed for marine equipment presentation and client communication  
+- Multi-language content and category-based product catalog  
+- Integrated quotation & inquiry module for direct business use
 
 ---
 
 ## Contact
 
 **Hanrui Luo**  
-BSc Computer Science with Artificial Intelligence — University of Nottingham (UK)  
-luohanrui@outlook.com  
-[GitHub Profile](https://github.com/ddlv70)
+BSc Computer Science with Artificial Intelligence — University of Nottingham (UK)   luohanrui@outlook.com  
+https://github.com/ddlv70
 
 ---
 
 ## 📘 中文说明
 
 本仓库为 **LUOCompany 海事设备网站** 的公开展示版本，  
-展示网站的结构、页面截图与功能说明，不包含任何后端代码或数据库信息。  
-完整源码存放于私有仓库中，可按申请提供访问。
+展示网站结构、页面截图与功能说明，不包含任何后端代码或数据库信息。  
+完整源码存放于**私有仓库**，可按申请提供访问。
 
 **网站特点：**
 - 中英文双语结构  
-- 产品分类展示  
-- 响应式布局与联系表单  
-- 动态后台管理系统（PHP + MySQL）
+- 产品分类与层级导航  
+- 响应式布局与联系/询价模块  
+- 后台动态内容管理（PHP + MySQL，见私库）
