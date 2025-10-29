@@ -72,7 +72,7 @@ For the full architecture diagram and page/API structure, please refer to
 ## Contact
 
 **Hanrui Luo**  
-BSc Computer Science with Artificial Intelligence — University of Nottingham (UK)   luohanrui@outlook.com  
+BSc Computer Science with Artificial Intelligence — University of Nottingham (UK)   henryluo2022@gmail.com  
 https://github.com/ddlv70
 
 ---
